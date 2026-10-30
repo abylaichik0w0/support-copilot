@@ -1,0 +1,7 @@
+models/
+data/
+*.jsonl
+*.jsonl.gz
+*_jsonl.gz
+__pycache__/
+.venv/.DS_Store
